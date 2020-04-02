@@ -1,4 +1,4 @@
-Reproducing a build error using Grommet Stable as of 4/2/2020
+Reproducing a build error using Grommet Stable as of 4/2/2020 - https://github.com/grommet/grommet/issues/3914
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
